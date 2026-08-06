@@ -1,4 +1,4 @@
-local Syntax = require("lua51c.Syntax")
+local Syntax = require("src.Syntax")
 
 local Lexer = {}
 
