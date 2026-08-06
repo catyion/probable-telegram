@@ -1,4 +1,4 @@
-local Platform = require("lua51c.Platform")
+local Platform = require("src.Platform")
 
 local Dumper = {}
 
