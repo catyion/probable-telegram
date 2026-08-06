@@ -1,4 +1,4 @@
-local Opcode = require("lua51c.Opcode")
+local Opcode = require("src.Opcode")
 
 local Disassembler = {}
 
