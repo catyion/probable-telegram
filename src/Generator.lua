@@ -1,5 +1,5 @@
-local Ast = require("lua51c.Ast")
-local Opcode = require("lua51c.Opcode")
+local Ast = require("src.Ast")
+local Opcode = require("src.Opcode")
 
 local Generator = {}
 
