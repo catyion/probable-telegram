@@ -1,5 +1,5 @@
-local Ast = require("lua51c.Ast")
-local Syntax = require("lua51c.Syntax")
+local Ast = require("src.Ast")
+local Syntax = require("src.Syntax")
 
 local Parser = {}
 
